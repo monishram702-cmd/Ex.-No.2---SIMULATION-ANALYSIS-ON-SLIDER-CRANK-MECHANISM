@@ -45,9 +45,15 @@
 
 ## Output
 
+<img width="1027" height="685" alt="Screenshot 2025-12-27 095429" src="https://github.com/user-attachments/assets/351e5087-e154-4882-a683-d68f68f15d16" />
 
-### Name:
-### Register Number: 
+
+<img width="1022" height="738" alt="Screenshot 2025-12-27 095440" src="https://github.com/user-attachments/assets/03dec211-4100-4279-a6ea-6f4f4b29db7f" />
+
+
+
+### Name: MONISH . R
+### Register Number: 25017815
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
